@@ -84,13 +84,16 @@ public class Shuffler {
         
     public static void selectionShuffle(int[] values) {
         Random r = new Random();
-        int val = 0;
         int k=0;
-        int[] numValues = values;
+        int a=0;
+        int b=0;
         
-        for(int i=0; i<k; i++){
-            k = r.nextInt(values.length-1);
-            values[i] = values[k];
+        for(int i=0; i<values.length; i++){
+            k = r.nextInt(values.length);
+            a=values[i];
+            b=values[k];
+            values[i]=b;
+            values[k]=a;
         }
     }
 }
