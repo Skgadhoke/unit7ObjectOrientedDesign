@@ -1,6 +1,6 @@
 #BlueJ package file
 objectbench.height=100
-objectbench.width=357
+objectbench.width=658
 package.editor.height=400
 package.editor.width=560
 package.editor.x=30
@@ -10,8 +10,13 @@ package.numTargets=1
 package.showExtends=true
 package.showUses=true
 project.charset=US-ASCII
+target1.editor.height=700
+target1.editor.width=900
+target1.editor.x=70
+target1.editor.y=50
 target1.height=50
 target1.name=Shuffler
+target1.naviview.expanded=true
 target1.showInterface=false
 target1.type=ClassTarget
 target1.typeParameters=
