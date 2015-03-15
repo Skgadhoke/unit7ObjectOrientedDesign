@@ -1,17 +1,22 @@
 #BlueJ package file
 objectbench.height=100
-objectbench.width=357
+objectbench.width=658
 package.editor.height=400
 package.editor.width=560
-package.editor.x=30
-package.editor.y=30
+package.editor.x=237
+package.editor.y=112
 package.numDependencies=0
 package.numTargets=1
 package.showExtends=true
 package.showUses=true
 project.charset=US-ASCII
+target1.editor.height=860
+target1.editor.width=720
+target1.editor.x=720
+target1.editor.y=0
 target1.height=50
 target1.name=ElevensBoard
+target1.naviview.expanded=true
 target1.showInterface=false
 target1.type=ClassTarget
 target1.typeParameters=
